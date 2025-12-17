@@ -1,0 +1,10 @@
+import FavouriteIcon from "./FavouriteIcon";
+
+export default function Favourite() {
+  return (
+    <div className="p-2 hover:bg-black/30 cursor-pointer flex gap-2 items-center rounded-md transition-all">
+      <FavouriteIcon />
+      <span>Favourite Locations</span>
+    </div>
+  );
+}
