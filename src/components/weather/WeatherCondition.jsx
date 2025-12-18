@@ -1,9 +1,9 @@
 import React from "react";
-import MaxTempIcon from "./MaxTempIcon";
-import MinTempIcon from "./MinTempIcon";
-import HumidityIcon from "./HumidityIcon";
-import CloudyIcon from "./CloudyIcon";
-import WindIcon from "./WindIcon";
+import { MaxTempIcon } from "../icons";
+import { MinTempIcon } from "../icons";
+import { HumidityIcon } from "../icons";
+import { CloudyIcon } from "../icons";
+import { WindIcon } from "../icons";
 
 export default function WeatherCondition() {
   return (

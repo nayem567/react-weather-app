@@ -1,5 +1,5 @@
-import CloudyIcon from "./CloudyIcon";
-import PinIcon from "./PinIcon";
+import { CloudyIcon } from "../icons";
+import { PinIcon } from "../icons";
 
 export default function WeatherHeadline() {
   return (

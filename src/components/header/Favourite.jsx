@@ -1,4 +1,4 @@
-import FavouriteIcon from "./FavouriteIcon";
+import { FavouriteIcon } from "../icons";
 
 export default function Favourite() {
   return (

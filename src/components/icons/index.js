@@ -1,0 +1,16 @@
+export { default as FavouriteIcon } from './FavouriteIcon';
+export { default as SearchIcon } from './SearchIcon';
+export { default as CloudyIcon } from './CloudyIcon';
+export { default as HumidityIcon } from './HumidityIcon';
+export { default as MaxTempIcon } from './MaxTempIcon';
+export { default as MinTempIcon } from './MinTempIcon';
+export { default as PinIcon } from './PinIcon';
+export { default as WindIcon } from './WindIcon';
+export { default as RainyIcon } from './RainyIcon';
+export { default as ReactIcon } from './ReactIcon';
+export { default as SnowIcon } from './SnowIcon';
+export { default as SunIcon } from './SunIcon';
+export { default as SunnyIcon } from './SunnyIcon';
+export { default as TempMaxIcon } from './TempMaxIcon';
+export { default as TempMinIcon } from './TempMinIcon';
+export { default as ThunderIcon } from './ThunderIcon';
